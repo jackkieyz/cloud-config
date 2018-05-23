@@ -1,2 +1,4 @@
 test:
   name: jack
+  age: 28
+  version: 1.0
