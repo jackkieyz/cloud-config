@@ -1,5 +1,8 @@
 test:
-  name: jack
+  name: lucy
   
 server:
   port: 3001
+management:
+  security:
+    enabled: false
