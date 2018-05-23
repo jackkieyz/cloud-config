@@ -1,3 +1,6 @@
+server:
+  port: 8900
+
 test:
   name: jack
   age: 28
