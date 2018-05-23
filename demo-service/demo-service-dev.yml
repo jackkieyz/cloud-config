@@ -3,3 +3,6 @@ test:
   
 server:
   port: 3001
+management:
+  security:
+    enabled: false
