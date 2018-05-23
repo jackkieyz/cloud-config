@@ -1,9 +1,0 @@
-server:
-  port: 5001
-
-zuul:
-	routes:
-		demoservice:
-			path: /demo/**
-			strPrefix: true
-			url: http://localhost:3001
