@@ -1,2 +1,5 @@
 test:
-	name: jack
+  name: jack
+  
+server:
+  port: 3001
