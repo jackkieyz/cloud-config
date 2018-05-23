@@ -1,5 +1,5 @@
 test:
-  name: sam
+  name: lucy
   
 server:
   port: 3001
